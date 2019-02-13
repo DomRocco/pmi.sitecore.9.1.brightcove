@@ -1,0 +1,57 @@
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.MediaFramework.dll.config
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.MediaFramework.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.MediaFramework.pdb
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Data.Common.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Diagnostics.StackTrace.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Diagnostics.Tracing.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Globalization.Extensions.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.IO.Compression.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Net.Http.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Net.Sockets.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Runtime.Serialization.Primitives.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Security.Cryptography.Algorithms.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Security.SecureString.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Threading.Overlapped.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Xml.XPath.XDocument.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\HtmlAgilityPack.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\ICSharpCode.SharpZipLib.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Lucene.Net.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Newtonsoft.Json.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Analytics.Aggregation.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Analytics.Core.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Analytics.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Analytics.Model.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ContentSearch.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ContentSearch.Linq.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ExperienceAnalytics.Aggregation.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ExperienceAnalytics.Api.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ExperienceAnalytics.Client.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ExperienceAnalytics.Core.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ExperienceAnalytics.ReAggregation.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ExperienceAnalytics.Reduce.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Integration.Common.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Kernel.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Mvc.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Services.Infrastructure.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Speak.Client.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.XConnect.Client.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.XConnect.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Xdb.Reporting.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Net.Http.Formatting.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Web.Http.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Web.Http.WebHost.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\HtmlAgilityPack.pdb
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\HtmlAgilityPack.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Lucene.Net.pdb
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Lucene.Net.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ContentSearch.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.ContentSearch.Linq.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\Sitecore.Kernel.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Net.Http.Formatting.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Web.Http.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\bin\System.Web.Http.WebHost.xml
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\obj\Debug 7.1\Sitecore.MediaFramework.csprojAssemblyReference.cache
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\obj\Debug 7.1\Sitecore.MediaFramework.csproj.CoreCompileInputs.cache
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\obj\Debug 7.1\Sitecore.MediaFramework.csproj.CopyComplete
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\obj\Debug 7.1\Sitecore.MediaFramework.dll
+C:\Dev\Brightcove-Connector-9.0.1\src\Sitecore.MediaFramework\obj\Debug 7.1\Sitecore.MediaFramework.pdb
